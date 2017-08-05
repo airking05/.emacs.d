@@ -1,1 +1,8 @@
 .session*
+/auto-save-list
+/el-get
+/elpa
+/irony
+/.python-environments
+/eshell
+/ac-comphist.dat
