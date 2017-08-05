@@ -6,3 +6,4 @@ session.*
 /.python-environments
 /eshell
 /ac-comphist.dat
+/tramp
